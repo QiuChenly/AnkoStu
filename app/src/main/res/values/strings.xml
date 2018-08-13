@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">我的APP</string>
+    <string name="action_settings">设置</string>
+    <string name="todo_title_hint">请输入NMSL</string>
+    <string name="todo_content_hint">NMSL</string>
+    <string name="todo_add">增加</string>
+</resources>
